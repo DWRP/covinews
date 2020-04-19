@@ -1,0 +1,49 @@
+@import '../../assets/css/global.css';
+.contant{
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+textarea{
+    font-family: Roboto;
+}
+.form{
+    width: 350px;
+    height: 100%;
+
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:stretch; 
+}
+.title{
+    float: center;
+    margin: 10px 0;
+}
+.labels{
+    margin: 10px 0 0;
+    float: left;
+    font-weight: bold;
+}
+
+.inputs{
+    margin: 0px 0 10px;
+    height: 40px;
+    background: #FFFFFF;
+    box-shadow: -2px 2px 4px rgba(0, 0, 0, 0.25), -3px 2px 4px rgba(0, 0, 0, 0.25), 0px -1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+.msg{
+    height: 150px;
+}
+
+.button{
+    float: right;
+    font-size: 12pt;
+}
