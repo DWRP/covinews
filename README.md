@@ -2,8 +2,8 @@
     
     A page for assignment to Hiring Coders Program.
     Static page to show news of the COVID-19.
-    Preview: https://covinews.netlify.app
 
+Preview: https://covinews.netlify.app
 ![preview](https://i.imgur.com/uQucHKv.png)
 
 ## Getting start
