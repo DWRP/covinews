@@ -1,5 +1,6 @@
 # covinews
-    
+[![Netlify Status](https://api.netlify.com/api/v1/badges/398d2299-62cc-409a-b694-e555f79bf9aa/deploy-status)](https://app.netlify.com/sites/covinews/deploys)
+
     A page for assignment to Hiring Coders Program.
     Static page to show news of the COVID-19.
 
